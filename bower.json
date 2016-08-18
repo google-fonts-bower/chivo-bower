@@ -1,0 +1,17 @@
+{
+    "name": "chivo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/chivo-bower.git"
+    },
+    "description": "Chivo font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
